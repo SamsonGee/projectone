@@ -1,10 +1,16 @@
-# projectone
-First thing I did was compare this code to the completed Run Buddy project made.
+# Horiseon 
 
-From there I saw that the original html had a lot of div produced and was not properly accessible for search functionality, etc. 
+## Purpose
+Landing page for Horiseon Company
 
-I also included some labeling so we can easily make out what is doing what in the code. 
+## Built With
+* HTML
+* CSS
 
-I updated the div contatiner holding the name of the company and the links, (updated the anchors to link down to corresponding sections), and labeled the container with the listed links.
+## Website
+https://github.com/SamsonGee/projectone
 
-h2 was updated to it's own section so we could delete all of the specific h2s
+https://samsongee.github.io/projectone/
+
+## Contribution
+Made with ❤️ by Sam Gorena
