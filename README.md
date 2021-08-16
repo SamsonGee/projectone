@@ -1,7 +1,7 @@
 # Horiseon 
 
 ## Purpose
-Landing page for Horiseon Company
+Landing page for Horiseon Company, updated coding for accessability standards.
 
 ## Built With
 * HTML
